@@ -13,5 +13,5 @@ Para a modelagem desses dados foi utilizando o modelo de regressão [ExtraTreesR
 No terminal, clone o projeto:
 
 ```
-git clone https://github.com/KarllaDelalibera/modelo-classificacao-spam.git
+git clone https://github.com/KarllaDelalibera/walmart-recruiting-store-sales-forecasting.git
 ```
