@@ -2,7 +2,7 @@
 
 # Walmart Recruiting - Store Sales Forecasting
 
-O objetivo desse projeto foi apresentar uma primeira versão da solução de um desafio do kaggle. Para um maior entendimento do desafio, entre [aqui](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
+O objetivo desse projeto foi apresentar uma primeira versão da solução de um desafio do kaggle! Para um maior entendimento do desafio, acesse: https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 ### Modelagem
 
