@@ -15,3 +15,5 @@ No terminal, clone o projeto:
 ```
 git clone https://github.com/KarllaDelalibera/walmart-recruiting-store-sales-forecasting.git
 ```
+
+> Status do Projeto: Concluído :heavy_check_mark:
