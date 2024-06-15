@@ -1,4 +1,6 @@
 [![python](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/)
+[![jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)](https://jupyter.org/)
+
 
 # Walmart Recruiting - Store Sales Forecasting
 
