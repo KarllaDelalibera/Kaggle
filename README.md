@@ -6,7 +6,7 @@ O objetivo desse projeto foi apresentar uma primeira versão de solução de um 
 
 ### Modelagem
 
-Para a modelagem desses dados foi utilizando o modelo de regressão [ExtraTreesRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html).
+Para a modelagem desses dados foi utilizado o modelo de regressão [ExtraTreesRegressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.ExtraTreesRegressor.html).
 
 # Como utilizar
 
@@ -15,5 +15,3 @@ No terminal, clone o projeto:
 ```
 git clone https://github.com/KarllaDelalibera/walmart-recruiting-store-sales-forecasting.git
 ```
-
-> Status do Projeto: Concluído :heavy_check_mark:
